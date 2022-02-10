@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Data.SQLite;
 using Xunit;
 
-//Если скачать архивом с гитхаба и переместить на рабочий стол, можно использовать такой путь
-//   C:/Users/название_пользователя/Desktop/HW26_SQL-main/hw26database.db
+//If download the archive from github and move it to desktop, you can use this path
+//   C:/Users/user_name/Desktop/HW26_SQL-main/hw26database.db
 
 namespace HW26_SQL
 {
